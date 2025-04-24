@@ -72,7 +72,7 @@ const AboutSection: React.FC = () => {
                 alt="Christian de Frondeville"
                 className="w-32 h-32 object-cover rounded-full mx-auto mb-4"
               />
-              <h3 className="text-xl font-semibold text-center text-neutral-900 mb-2">Christian Defronderville</h3>
+              <h3 className="text-xl font-semibold text-center text-neutral-900 mb-2">Christian de Frondeville</h3>
               <p className="text-center text-neutral-600 mb-3">Co-Founder & CTO</p>
               <p className="text-neutral-700 text-center text-sm">
                  AI Research Lead with 5+ years of experience in machine learning, natural language processing and agnetic AI.
