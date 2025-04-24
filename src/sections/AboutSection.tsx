@@ -69,7 +69,7 @@ const AboutSection: React.FC = () => {
             <div className="bg-white p-6 rounded-xl shadow-md border border-neutral-100">
               <img
                 src="/Christian Profile.jpg"
-                alt="Christian Defronderville"
+                alt="Christian de Frondeville"
                 className="w-32 h-32 object-cover rounded-full mx-auto mb-4"
               />
               <h3 className="text-xl font-semibold text-center text-neutral-900 mb-2">Christian Defronderville</h3>
